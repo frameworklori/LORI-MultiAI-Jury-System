@@ -1,0 +1,91 @@
+# LORI Framework Public Concept License and Attribution Notice
+
+Copyright (c) Lori-Framework
+
+Original creator / framework owner:
+
+- Lori-Framework
+- beautysungirl@gmail.com
+
+Project name:
+
+**LORI Jury-Based Judgment System v2.0 — Multi-AI Agent Architecture**
+
+---
+
+## Origin and Continuity
+
+This project derives from the LORI Ethical System and the previously established LORI Jury-Based Judgment System.
+
+This work is a continuation, formalization, and public governance-layer disclosure of earlier LORI Jury-Based Judgment System work. It is not a replacement of the original LORI Jury concept.
+
+Required continuity references:
+
+- Original concept continuity date: **2025-06-08**
+- Earliest confirmed commit: **4e10b8de916acd5d8957c2f61e73ae196e8cc91c**
+- Framework lineage: **LORI Ethical System**
+- Continuing system name: **LORI Jury-Based Judgment System v2.0 — Multi-AI Agent Architecture**
+
+Author continuity and framework lineage must remain preserved across all future derivative branches.
+
+---
+
+## Public Permission Boundary
+
+This public repository is provided for concept disclosure, governance discussion, attribution, documentation review, and non-implementation reference.
+
+The following public materials may be referenced with clear attribution to Lori-Framework:
+
+- Governance philosophy
+- Public architecture descriptions
+- Human sovereignty principles
+- Public case and verdict templates
+- Public voting and audit concepts
+
+Any reference must preserve:
+
+- The project name
+- The Lori-Framework attribution
+- The author continuity statement
+- The original concept continuity date
+- The earliest confirmed commit reference
+
+---
+
+## Protected Materials
+
+This license does not authorize reproduction, redistribution, rebranding, sublicensing, commercialization, or derivative implementation of implementation-sensitive systems.
+
+Protected materials include, but are not limited to:
+
+- Multi-AI orchestration logic
+- Agent routing methods
+- Cross-examination implementation logic
+- Audit memory systems
+- Weighting and scoring systems
+- Anti-contamination architecture
+- Anti-manipulation architecture
+- Internal model coordination methods
+- Private implementation notes
+
+---
+
+## Concept Disclosure Only
+
+This repository discloses public governance philosophy and architecture only.
+
+Orchestration logic and implementation-sensitive systems remain protected. No permission is granted to implement, clone, redistribute, or derive a competing implementation from the protected private system design without explicit written permission from Lori-Framework.
+
+---
+
+## Attribution Requirement
+
+All citations, forks, derivative branches, summaries, or public references must preserve the following notice:
+
+> Derived from the LORI Ethical System and the LORI Jury-Based Judgment System. Original concept continuity date: 2025-06-08. Earliest confirmed commit: 4e10b8de916acd5d8957c2f61e73ae196e8cc91c. Copyright (c) Lori-Framework.
+
+---
+
+## No Waiver
+
+Publication of this repository does not waive authorship, framework lineage, attribution rights, protected implementation rights, or private-system boundaries.

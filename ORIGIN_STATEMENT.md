@@ -1,7 +1,14 @@
 # Origin Statement
 
-**Project:** LORI Jury-Based Judgment System v2.0 - Multi-AI Agent Architecture  
+**Project:** LORI Jury-Based Judgment System v2.0 — Multi-AI Agent Architecture  
 **Public repository:** LORI-MultiAI-Jury-System
+
+**Copyright (c) Lori-Framework**
+
+Original creator / framework owner:
+
+- **Lori-Framework**
+- **beautysungirl@gmail.com**
 
 ---
 
@@ -13,10 +20,12 @@ It is not a brand-new concept and does not overwrite or replace the original LOR
 
 Confirmed origin anchors:
 
-- Confirmed earliest version date: **2025-06-08**
-- Confirmed earliest commit: **4e10b8de916acd5d8957c2f61e73ae196e8cc91c**
+- Original concept continuity date: **2025-06-08**
+- Earliest confirmed commit: **4e10b8de916acd5d8957c2f61e73ae196e8cc91c**
 - Prior system name: **LORI Jury-Based Judgment System**
-- Current continuation label: **LORI Jury-Based Judgment System v2.0 - Multi-AI Agent Architecture**
+- Current continuation label: **LORI Jury-Based Judgment System v2.0 — Multi-AI Agent Architecture**
+
+Author continuity and framework lineage must remain preserved across all future derivative branches.
 
 ---
 
@@ -42,3 +51,11 @@ This public repository documents the governance and conceptual layer only.
 It intentionally avoids exposing private orchestration logic, agent routing mechanisms, internal scoring calibration, anti-contamination controls, or implementation-sensitive audit memory details.
 
 Those internal design materials are preserved separately in the private implementation planning layer.
+
+---
+
+## Concept Disclosure Only
+
+This repository publicly discloses governance philosophy, public architecture, authorship continuity, and human-sovereignty principles.
+
+It does not grant permission to reproduce private orchestration logic, routing methods, audit memory systems, weighting systems, or anti-manipulation architecture.

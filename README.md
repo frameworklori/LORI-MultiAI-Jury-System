@@ -1,5 +1,5 @@
 # LORI Multi-AI Jury System
-**LORI Jury-Based Judgment System v2.0 - Multi-AI Agent Architecture**
+**LORI Jury-Based Judgment System v2.0 — Multi-AI Agent Architecture**
 
 The LORI Multi-AI Jury System is the public concept, governance, authorship, and human-sovereignty layer for a multi-model jury-based judgment framework.
 
@@ -7,21 +7,32 @@ This repository formalizes the next-stage architecture of the previously establi
 
 ---
 
-## Origin
+## Attribution and Continuity
+
+**Copyright (c) Lori-Framework**
+
+Original creator / framework owner:
+
+- **Lori-Framework**
+- **beautysungirl@gmail.com**
 
 This project derives from the **LORI Ethical System** and the previously established **LORI Jury-Based Judgment System**.
 
-- Confirmed earliest version date: **2025-06-08**
-- Confirmed earliest commit: **4e10b8de916acd5d8957c2f61e73ae196e8cc91c**
-- Continuation label: **LORI Jury-Based Judgment System v2.0 - Multi-AI Agent Architecture**
+- Original concept continuity date: **2025-06-08**
+- Earliest confirmed commit: **4e10b8de916acd5d8957c2f61e73ae196e8cc91c**
+- Continuation label: **LORI Jury-Based Judgment System v2.0 — Multi-AI Agent Architecture**
+
+Author continuity and framework lineage must remain preserved across all future derivative branches.
 
 The public repository discloses concept, governance logic, authorship continuity, case structure, voting principles, audit boundaries, and human-sovereignty requirements only.
 
 Implementation-sensitive orchestration details, routing logic, anti-contamination mechanisms, and internal scoring boundaries are preserved in the private planning repository.
 
+See `LICENSE` and `AUTHORSHIP_PROTECTION.md` for attribution and reuse conditions.
+
 ---
 
-## Public Scope
+## Concept Disclosure Only
 
 This repository covers:
 
@@ -33,6 +44,8 @@ This repository covers:
 - Public workflow description
 - Multi-model boundary principles
 
+The public repository is a **concept disclosure only** repository. Governance philosophy and architecture are public for attribution, review, and civic discussion.
+
 This repository does not disclose:
 
 - Private agent routing logic
@@ -41,6 +54,8 @@ This repository does not disclose:
 - Anti-manipulation heuristics
 - Scoring calibration internals
 - Model-specific orchestration instructions
+
+Orchestration logic and implementation-sensitive systems remain protected and are not authorized for reproduction from this public disclosure.
 
 ---
 
